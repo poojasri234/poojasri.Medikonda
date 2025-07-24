@@ -5,7 +5,7 @@
 <p align="center">
 💻 Full Stack Developer | she/her  
 🚀 Passionate about building scalable web applications using Java, Spring Boot, React & Angular  
-📚 Lifelong learner exploring backend architecture, DevOps, and data science fundamentals  
+📚 Lifelong learner exploring backend architecture, and data science fundamentals  
 </p>
 
 ---
@@ -45,7 +45,6 @@ Modern responsive site using React and Bootstrap.
 
 - ✅ Full Stack Java Developer – Vcube Software Solutions  
 - ✅ Spring Framework – Udemy  
-- ✅ SQL for Data Science – Coursera  
 
 ---
 
