@@ -13,13 +13,18 @@
 ## 🛠️ Technical Proficiencies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://seeklogo.com/images/J/java-logo-75067D161A-seeklogo.com.png" alt="Java" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/S/spring-boot-logo-385503C31D-seeklogo.com.png" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/H/hibernate-logo-450811867D-seeklogo.com.png" alt="Hibernate" width="50" height="50"/>
+  <img src="https://freebiesupply.com/logos/mysql-logo-2.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/R/react-logo-507247D9B3-seeklogo.com.png" alt="React" width="50" height="50"/>
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML5" width="50" height="50"/>
+  <img src="https://freebiesupply.com/logos/css3-logo.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/B/bootstrap-5-logo-3C30FB2A16-seeklogo.com.png" alt="Bootstrap" width="50" height="50"/>
 </p>
+
 
 ---
 
