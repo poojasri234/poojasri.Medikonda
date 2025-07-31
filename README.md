@@ -1,91 +1,100 @@
-# poojasri.github.io
-
-<h1 align="center">👋 Hi, I'm Poojasri Medikonda</h1>
-
 <p align="center">
-💻 Full Stack Developer | She/Her<br/>
-🚀 Passionate about scalable systems and clean architecture<br/>
-📚 Constantly exploring backend ecosystems, cloud integration & data analytics
+  <img src="./banner.png" alt="Poojasri Medikonda Banner" width="100%" />
 </p>
+
+# 👋 Hi, I'm Poojasri Medikonda
+
+💻 Java Backend Developer | She/Her  
+🚀 Passionate about scalable systems, clean architecture & secure coding  
+📚 Exploring Spring Boot, REST APIs, Microservices & AI integration  
+🌐 [poojasri.github.io](https://poojasri.github.io)
 
 ---
 
-## 🛠️ Technical Proficiencies
+## 🧠 About Me
 
-<p align="center">
-  <!-- Core Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-</p>
-
+- 🎓 B.Tech in Information Technology – JNTU-K, Andhra Pradesh  
+- 🔧 Hands-on experience with Java, Spring Boot, Hibernate, MySQL, and RESTful APIs  
+- 🧪 Practicing test-driven development and clean code principles  
+- 🧠 Strong problem-solving mindset with a focus on backend optimization  
+- 🌱 Currently deepening skills in microservices, cloud deployment, and secure coding
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-**Java Developer Intern – Internshala, Vizag**  
-*Jul 2024 – Dec 2024*  
-- Developed RESTful APIs with secure authentication and authorization flows  
-- Integrated third-party services, enhanced backend modularity and robustness
+**Java Developer Intern** – Internshala, Vizag *(Jul 2024 – Dec 2024)*  
+- Developed RESTful APIs with Spring Boot and secure authentication  
+- Optimized MySQL queries for faster data retrieval  
+- Integrated third-party APIs and followed MVC architecture  
+- Practiced secure coding and collaborated on scalable backend modules
 
-**Data Science Intern – BrainOvision Solutions, Hyderabad**  
-*Apr 2022 – May 2022*  
-- Created predictive models and dashboards using Python & Pandas  
-- Improved data accuracy and processing time through optimized pipelines  
+**Data Science Intern** – BrainOvision Solutions, Hyderabad *(Apr 2022 – May 2022)*  
+- Built predictive models using Python & Pandas  
+- Improved data accuracy and processing speed with optimized pipelines
 
 ---
 
 ## 📂 Projects
 
-### 🔧 Internal Business Application  
-A scalable tool for automating internal workflows and boosting operational efficiency.  
-- Developed using Java, Spring Boot, and MySQL  
-- Implemented REST APIs with comprehensive test coverage (>95%)  
-🔗 [Repository](https://github.com/poojasrimedikonda/internal-application)
+🔧 **MedSync – AI-Powered Hospital Management System**  
+- Spring Boot + MySQL + JWT + ChatGPT integration  
+- Reduced API response time by 25% with optimized queries  
+- Secured endpoints and validated APIs using Postman
 
-### 🌐 Responsive Web Platform  
-Built a responsive and interactive website using React and Bootstrap.  
-- Increased user engagement by 40% through performance tuning and UX improvements  
-- Optimized frontend and database interaction  
-🔗 [Repository](https://github.com/poojasrimedikonda/responsive-website)
+🔧 **StayEase – Hostel/PG Booking Platform**  
+- Spring MVC + Hibernate + Stripe + Spring Mail  
+- Built dashboards with full CRUD and automated booking workflows
+
+🔧 **CourseConnect – LMS Backend**  
+- REST APIs with Spring Boot, optimized for scalability  
+- Applied secure coding and indexing for fast data access
+
+🌐 **EventHub – Responsive Web App**  
+- HTML5 + CSS3 + Bootstrap + JavaScript  
+- Dynamic UI with live event data and optimized performance
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 
 - ✔️ Full Stack Java Developer – Vcube Software Solutions  
-- ✔️ Spring Framework Masterclass – Udemy  
+- ✔️ Advanced Java & AI-Integrated Project Development – FLM Institute  
+- 🧠 Advanced Python Programming Workshop  
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏅 Achievements
 
-- 🛍️ Developed a complete E-Commerce Platform using Spring Boot & Hibernate  
-- 🧠 Completed Advanced Python Workshop with real-world ML applications  
-- 💻 Active contributor on platforms like LeetCode and HackerRank  
+- 🛍️ Built a full-featured E-Commerce Platform using Spring Boot & Hibernate  
+- 💻 Active on LeetCode & HackerRank with strong rankings  
+- 🧠 Improved coding efficiency by 15% through advanced Python workshop
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/poojasrimedikonda23/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:poojasrimedikonda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/poojasrimedikonda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+- 📧 Email: poojasrimedikonda@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/poojasrimedikonda23](https://www.linkedin.com/in/poojasrimedikonda23/)  
+- 🧑‍💻 GitHub: [github.com/poojasri](https://github.com/poojasri)
 
 ---
 
-<p align="center">✨ Thanks for visiting. Open to collaboration & opportunities! ✨</p>
+> ✨ Thanks for visiting! Open to internships, and FullStack  opportunities ✨
