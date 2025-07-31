@@ -13,18 +13,17 @@
 ## 🛠️ Technical Proficiencies
 
 <p align="center">
-  <img src="https://seeklogo.com/images/J/java-logo-75067D161A-seeklogo.com.png" alt="Java" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/S/spring-boot-logo-385503C31D-seeklogo.com.png" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/H/hibernate-logo-450811867D-seeklogo.com.png" alt="Hibernate" width="50" height="50"/>
-  <img src="https://freebiesupply.com/logos/mysql-logo-2.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/R/react-logo-507247D9B3-seeklogo.com.png" alt="React" width="50" height="50"/>
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML5" width="50" height="50"/>
-  <img src="https://freebiesupply.com/logos/css3-logo.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/B/bootstrap-5-logo-3C30FB2A16-seeklogo.com.png" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 </p>
-
 
 ---
 
