@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Poojasri Medikonda Banner" width="100%" />
-</p>
 
 # 👋 Hi, I'm Poojasri Medikonda
 
